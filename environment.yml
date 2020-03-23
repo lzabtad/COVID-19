@@ -1,3 +1,4 @@
 name: basic
 dependencies:
   - pandas
+  - matplotlib
