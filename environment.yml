@@ -1,4 +1,6 @@
 name: basic
+channels:
+  - conda-forge
 dependencies:
   - pandas
   - matplotlib
